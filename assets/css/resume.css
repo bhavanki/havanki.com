@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'pt_sans_narrowregular';
+    src: url('/fonts/PTN57F-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pt_sans_narrowbold';
+    src: url('/fonts/PTN77F-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  font-family: "PT Sans Narrow", "pt_sans_narrowregular", "Arial Narrow", sans-serif;
+  font-size: x-large;
+  line-height: 1.2;
+  margin-top: 1em;
+}
+
+#resumecontact {
+  float: right;
+  text-align: right;
+  font-size: smaller;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+h3 {
+  display: inline-block;
+  width: 15%;
+  font-size: inherit;
+  font-weight: normal;
+  color: #666;
+  text-align: right;
+  padding-right: 0.5em;
+  margin-bottom: 0.3rem;
+}
+
+ul {
+  display: inline-block;
+  width: 84%;
+  padding-left: 0.5em;
+  margin-bottom: 0.3rem;
+}
+
+li {
+  display: inline-block;
+}
+
+li:not(:first-child):before {
+    content: " · ";
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+hr {
+  border-color: #666;
+}
+
+.resumekeywords {
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.expdates {
+    border-bottom: 1px solid #666;
+    padding-bottom: 5px;
+    margin-bottom: 0.8rem;
+}
+
+.expposition {
+    border-bottom: 1px solid #666;
+    padding-bottom: 5px;
+    margin-bottom: 0.8rem;
+}

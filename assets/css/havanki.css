@@ -1,0 +1,53 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: large;
+    background-color: #5850a0;
+    color: #eee;
+}
+
+.card {
+    background-color: #dcf;
+    color: #090009;
+}
+
+.info-section {
+    background-color: #dcf;
+    color: #090009;
+}
+
+.info-pic-1 {
+    min-height: 200px;
+    background-image: url("../images/george-pagan-iii-s-77IdplLv4-unsplash.jpg");
+    color: #eee;
+}
+
+.info-pic-2 {
+    min-height: 200px;
+    background-image: url("../images/pawel-czerwinski-P194ErzT_co-unsplash.jpg");
+    color: #eee;
+}
+
+.info-pic-3 {
+    min-height: 200px;
+    background-image: url("../images/ferdinand-stohr-NFs6dRTBgaM-unsplash.jpg");
+    color: #eee;
+}
+
+.info-pic-4 {
+    min-height: 200px;
+    background-image: url("../images/solen-feyissa-KJhfznmFt-Q-unsplash.jpg");
+    color: #eee;
+}
+
+.list-group-item {
+    background-color: inherit;
+    border: 0;
+}
+
+.display-text {
+    font-family: Kanit, serif;
+}
+
+h1, h2 {
+    font-family: Kanit, serif;
+}
