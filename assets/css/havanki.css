@@ -2,6 +2,7 @@ body {
     font-family: "Open Sans", sans-serif;
     font-size: large;
     background-color: #5850a0;
+    background-image: linear-gradient(200deg, #5850a0, #b970c9);
     color: #eee;
 }
 
