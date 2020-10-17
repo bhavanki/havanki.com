@@ -33,7 +33,7 @@ title: Home
 </div>
 
 <div class="row info-section mt-md-4">
-  <div class="col-md-7 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-2" style="background-color: #f0f; min-height: 200px">
+  <div class="col-md-7 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-2" style="min-height: 200px">
     <h2 class="d-block">Presence</h2>
   </div>
   <div class="col-md order-2 list-group list-group-flush py-2">
@@ -46,7 +46,7 @@ title: Home
 </div>
 
 <div class="row info-section mt-md-4">
-  <div class="col-md-5 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-3" style="background-color: #f0f; min-height: 200px">
+  <div class="col-md-5 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-3" style="min-height: 200px">
     <h2 class="d-block">Talks</h2>
   </div>
   <div class="col-md order-2 list-group list-group-flush py-2">
@@ -59,12 +59,12 @@ title: Home
 </div>
 
 <div class="row info-section mt-md-4">
-  <div class="col-md-7 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-4" style="background-color: #f0f; min-height: 200px">
+  <div class="col-md-7 order-1 d-flex flex-wrap align-items-end justify-content-end info-pic-4" style="min-height: 200px">
     <h2 class="d-block">Contact</h2>
   </div>
   <div class="col-md order-2 list-group list-group-flush py-2">
     <a href="resume.html" class="list-group-item py-1">Résumé / CV</a>
-    <span class="list-group-item py-1">Email: bill@(this domain name)</span>
+    <span class="list-group-item py-1">Email: (my first name)@(this domain name)</span>
   </div>
 </div>
 
