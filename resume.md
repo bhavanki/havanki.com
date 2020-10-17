@@ -12,6 +12,9 @@ bill@(my last name).com<br>
 
 # William A. Havanki, Jr.
 
+he · him · his
+{: #pronouns}
+
 <hr style="clear: both">
 
 ## Keywords

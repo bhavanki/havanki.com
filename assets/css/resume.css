@@ -25,6 +25,11 @@ body {
   font-size: smaller;
 }
 
+#pronouns {
+  font-size: smaller;
+  color: #aaa;
+}
+
 h1 {
   font-weight: bold;
 }
