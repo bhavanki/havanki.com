@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Bill Havanki Resume 2020
-date: 2020-09-27
+title: Bill Havanki Resume 2021
+date: 2021-06-05
 ---
 
 Churchton MD 20733 USA<br>
@@ -12,7 +12,7 @@ bill@(my last name).com<br>
 
 # William A. Havanki, Jr.
 
-he · him · his
+he · him
 {: #pronouns}
 
 <hr style="clear: both">
@@ -145,7 +145,7 @@ he · him · his
 ### 2013 Sep - present
 {: class="expdates"}
 
-* Principal Software Engineer I · [Cloudera, Inc.][cloudera], Palo Alto CA
+* Principal Software Engineer I · [Cloudera, Inc.][cloudera], Santa Clara CA
 {: class="expposition"}
 
 Led team creating infrastructure systems for core of [Cloudera Data Platform][cdp] Control Plane, including auditing, public API design, and workflow management; led team developing new features of [Cloudera Data Platform][cdp] Control Plane for automated deployment of data platform into public cloud providers
@@ -162,7 +162,7 @@ Apache Accumulo committer and PMC member, January 2014
 
 Mentored coworkers on work habits, workplace issues
 
-### 2001 Jul - 2013 Aug
+### 2011 Jul - 2013 Aug
 {: class="expdates"}
 
 * Senior Software Engineer · [Raytheon Henggeler Consultants][henggeler], Columbia MD
