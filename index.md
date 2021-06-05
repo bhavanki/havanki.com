@@ -5,7 +5,7 @@ title: Home
 
 <div class="row mt-md-3">
   <div class="col-md d-flex flex-wrap align-items-center" style="min-height: 250px">
-    <img src="https://s.gravatar.com/avatar/0d3f2e75b439a8bfcb1a452b1def288f?s=200" class="m-auto d-block">
+    <img src="https://s.gravatar.com/avatar/0d3f2e75b439a8bfcb1a452b1def288f?s=200" class="m-auto d-block" width="200" height="200">
   </div>
   <div class="col-md d-flex flex-wrap align-items-center">
 <h1 class="display-4">Bill Havanki</h1>
