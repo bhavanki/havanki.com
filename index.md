@@ -16,7 +16,7 @@ title: Home
   <div class="col d-flex flex-wrap justify-content-center display-text">
     <ul class="list-group list-group-flush">
       <li class="list-group-item py-0">Species: Human</li>
-      <li class="list-group-item py-0">Pronouns: He / Him / His</li>
+      <li class="list-group-item py-0">Pronouns: He / Him</li>
       <li class="list-group-item py-0">Alignment: Good</li>
       <li class="list-group-item py-0">Occupation: Coder</li>
     </ul>
