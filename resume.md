@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Bill Havanki Resume 2021
-date: 2021-06-05
+date: 2021-06-22
 ---
 
 Churchton MD 20733 USA<br>
@@ -142,7 +142,11 @@ he · him
 
 ## Experience
 
-### 2013 Sep - present
+### 2021 Jun - present
+
+...
+
+### 2013 Sep - 2021 Jun
 {: class="expdates"}
 
 * Principal Software Engineer I · [Cloudera, Inc.][cloudera], Santa Clara CA
