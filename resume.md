@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Bill Havanki Resume 2021
-date: 2021-06-22
+date: 2021-07-01
 ---
 
 Churchton MD 20733 USA<br>
@@ -143,8 +143,12 @@ he · him
 ## Experience
 
 ### 2021 Jun - present
+{: class="expdates"}
 
-...
+* Principal Software Engineer · [Segment, Inc.][segment], San Francisco CA
+{: class="expposition"}
+
+Member of Cloud team expanding infrastructure globally for data residency requirements.
 
 ### 2013 Sep - 2021 Jun
 {: class="expdates"}
@@ -216,6 +220,7 @@ Banerjia, S., Havanki, W. A., & Conte, T. M.. (August 1997). [Treegion schedulin
 
 Havanki, W. A. (July 1997). [Treegion scheduling for VLIW processors][msthesis]. (Master's thesis.) Department of Electrical and Computer Engineering, North Carolina State University, Raleigh NC.
 
+[segment]: https://www.segment.com/
 [cloudera]: https://www.cloudera.com/
 [cdp]: https://www.cloudera.com/products/cloudera-data-platform.html
 [director]: https://www.cloudera.com/products/product-components/cloudera-director.html
