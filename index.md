@@ -89,7 +89,7 @@ title: Home
           <li><a href="https://unsplash.com/@solenfeyissa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Solen Feyissa</a></li>
         </ul>
         <p>
-          Photo formats were converted to improve site performance.
+          Photos were cropped and converted to improve site performance.
         </p>
       </div>
     </div>
