@@ -42,7 +42,6 @@ title: Home
     <a href="https://github.com/bhavanki" class="list-group-item py-1">GitHub</a>
     <a href="https://www.slideshare.net/BillHavanki" class="list-group-item py-1">SlideShare</a>
     <a href="https://people.apache.org/~bhavanki/" class="list-group-item py-1">ASF</a>
-    <a href="https://billhavanki.brandyourself.com?source=home" class="list-group-item py-1">BrandYourself</a>
   </div>
 </div>
 
