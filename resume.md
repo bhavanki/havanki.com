@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Bill Havanki Resume 2021
-date: 2021-07-01
+title: Bill Havanki Resume 2023
+date: 2023-08-26
 ---
 
 Churchton MD 20733 USA<br>
@@ -23,24 +23,23 @@ he · him
 * software development
 * software design
 * technical leadership
+* developer platform
 * process improvement
-* compilers
 * middleware
-* data processing
 * web applications
 * cloud analytics
+* mentoring
 {: class="resumekeywords"}
 
 ## Skills
 
 ### Languages
 
+* Go
 * Java
 * bash
 * Python
 * JavaScript
-* Go
-* SQL
 
 ### APIs
 
@@ -48,7 +47,6 @@ he · him
 * HBase
 * Accumulo
 * JAX-RS
-* JAX-WS
 * JPA
 * Spring
 * Jackson
@@ -61,8 +59,6 @@ he · him
 * Jekyll
 * REST
 * gRPC
-* AJAX
-* jQuery
 * HTTP
 * TLS
 * PKI
@@ -75,6 +71,7 @@ he · him
 * JSON
 * YAML
 * Protobuf
+* Kafka
 
 ### Servers
 
@@ -86,12 +83,13 @@ he · him
 
 ### Tools
 
-* Sublime Text
 * Git
 * Maven
 * JUnit
 * Spotbugs
 * Jenkins
+* Argo CD
+* Buildkite
 * Jira
 
 ### OS
@@ -107,6 +105,7 @@ he · him
 * Google Cloud
 * Microsoft Azure
 * Kubernetes
+* Terraform
 
 ### Process
 
@@ -145,10 +144,14 @@ he · him
 ### 2021 Jun - present
 {: class="expdates"}
 
-* Principal Software Engineer · [Segment, Inc.][segment], San Francisco CA
+* Principal Software Engineer · [Twilio, Inc.][twilio] ([Segment][segment]), San Francisco CA
 {: class="expposition"}
 
-Member of Cloud team expanding infrastructure globally for data residency requirements.
+Currently leading and advising efforts on infrastructure developer platform team · developed and expanded internal Kubernetes deployment and interaction tooling used by Segment engineering teams · created tools for managing local Kubernetes clusters and remote development servers to ease implementation and testing work for engineering
+
+Worked as member of team that expanded infrastructure into the EU to satisfy data residency requirements · briefly led team responsible for ingesting event data through a distributed, container-based pipeline architecture.
+
+Coordinator for organization mentorship program · member of business unit culture committee
 
 ### 2013 Sep - 2021 Jun
 {: class="expdates"}
@@ -156,7 +159,7 @@ Member of Cloud team expanding infrastructure globally for data residency requir
 * Principal Software Engineer I · [Cloudera, Inc.][cloudera], Santa Clara CA
 {: class="expposition"}
 
-Led team creating infrastructure systems for core of [Cloudera Data Platform][cdp] Control Plane, including auditing, public API design, and workflow management; led team developing new features of [Cloudera Data Platform][cdp] Control Plane for automated deployment of data platform into public cloud providers
+Led team creating infrastructure systems for core of [Cloudera Data Platform][cdp] Control Plane, including auditing, public API design, and workflow management · led team developing new features of [Cloudera Data Platform][cdp] Control Plane for automated deployment of data platform into public cloud providers
 
 Led development and testing of [Cloudera Altus Director][director] for automated deployment of clusters into public cloud providers · implemented major features, paved way for company to embrace cloud offerings
 
@@ -220,6 +223,7 @@ Banerjia, S., Havanki, W. A., & Conte, T. M.. (August 1997). [Treegion schedulin
 
 Havanki, W. A. (July 1997). [Treegion scheduling for VLIW processors][msthesis]. (Master's thesis.) Department of Electrical and Computer Engineering, North Carolina State University, Raleigh NC.
 
+[twilio]: https://www.twilio.com/
 [segment]: https://www.segment.com/
 [cloudera]: https://www.cloudera.com/
 [cdp]: https://www.cloudera.com/products/cloudera-data-platform.html
