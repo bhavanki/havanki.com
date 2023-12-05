@@ -36,76 +36,77 @@ he · him
 ### Languages
 
 * Go
-* Java
 * bash
+* Java
 * Python
 * JavaScript
 
 ### APIs
 
+* Spring
+* JPA
+* JAX-RS
+* Jackson
 * MapReduce
 * HBase
 * Accumulo
-* JAX-RS
-* JPA
-* Spring
-* Jackson
-* Java EE
 
 ### Web
 
+* REST
+* gRPC
+* TLS
+* PKI
+* HTTP
 * HTML
 * CSS
 * Jekyll
-* REST
-* gRPC
-* HTTP
-* TLS
-* PKI
 
 ### Data
 
-* BigTable
-* RDBMS
-* XML
 * JSON
 * YAML
-* Protobuf
 * Kafka
+* BigTable
+* RDBMS
+* Protobuf
+* XML
 
 ### Servers
 
-* Apache
 * Nginx
 * Jetty
+* Apache
 * MySQL
 * PostgreSQL
 
 ### Tools
 
 * Git
+* Argo CD
+* Buildkite
+* Jira
 * Maven
 * JUnit
 * Spotbugs
 * Jenkins
-* Argo CD
-* Buildkite
-* Jira
 
 ### OS
 
 * Linux (Red Hat · CentOS · Ubuntu)
 * macOS
-* VirtualBox
 * Docker
+* VirtualBox
 
 ### Cloud
 
+* Kubernetes
+* Terraform
+* Datadog
+* Prometheus
 * AWS
 * Google Cloud
 * Microsoft Azure
-* Kubernetes
-* Terraform
 
 ### Process
 
