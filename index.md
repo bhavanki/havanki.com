@@ -28,7 +28,7 @@ title: Home
     <h2 class="d-block">Writing</h2>
   </div>
   <div class="col-md order-2 list-group list-group-flush py-2">
-    <a href="https://mh2c.com/" class="list-group-item py-1">Moving Hadoop to the Cloud (book)</a>
+    <a href="mh2c/index.html" class="list-group-item py-1">Moving Hadoop to the Cloud (book)</a>
     <a href="https://vectorbeta.wordpress.com/" class="list-group-item py-1">Vector Beta</a>
   </div>
 </div>
