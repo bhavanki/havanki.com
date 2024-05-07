@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Bill Havanki Resume 2023
-date: 2023-08-26
+title: Bill Havanki Resume 2024
+date: 2024-05-06
 ---
 
 Churchton MD 20733 USA<br>
@@ -148,7 +148,7 @@ he · him
 * Principal Software Engineer · [Twilio, Inc.][twilio] ([Segment][segment]), San Francisco CA
 {: class="expposition"}
 
-Currently leading and advising efforts on infrastructure developer platform team · developed and expanded internal Kubernetes deployment and interaction tooling used by Segment engineering teams · created tools for managing local Kubernetes clusters and remote development servers to ease implementation and testing work for engineering
+Currently leading and advising efforts on infrastructure developer platform team · designed and contributed features for internal developer portal · developed and expanded internal Kubernetes deployment and interaction tooling used by Segment engineering teams · created tools for managing local Kubernetes clusters and remote development servers to ease implementation and testing work for engineering
 
 Worked as member of team that expanded infrastructure into the EU to satisfy data residency requirements · briefly led team responsible for ingesting event data through a distributed, container-based pipeline architecture.
 
